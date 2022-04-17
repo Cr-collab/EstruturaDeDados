@@ -12,7 +12,7 @@ public class VetorTeste {
     	 System.err.println(lista.tamanho());
     	 
     	 System.out.println(lista);
-    	 System.out.println(lista.contem(alunoJose));
+    	 System.out.println(lista.contem(alunoJose) + "dmfkndfjknj");
     	 
     	 
     	 //System.out.println(lista.pega(1));
